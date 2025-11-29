@@ -1,0 +1,15 @@
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\bin\Debug\net8.0\Actividad3.exe
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\bin\Debug\net8.0\Actividad3.deps.json
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\bin\Debug\net8.0\Actividad3.runtimeconfig.json
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\bin\Debug\net8.0\Actividad3.dll
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\bin\Debug\net8.0\Actividad3.pdb
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.AssemblyInfoInputs.cache
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.AssemblyInfo.cs
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.csproj.CoreCompileInputs.cache
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.sourcelink.json
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.dll
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\refint\Actividad3.dll
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.pdb
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\Actividad3.genruntimeconfig.cache
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\obj\Debug\net8.0\ref\Actividad3.dll

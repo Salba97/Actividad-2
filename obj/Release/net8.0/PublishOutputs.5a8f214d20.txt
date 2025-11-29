@@ -1,0 +1,5 @@
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\publish\Actividad3.exe
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\publish\Actividad3.dll
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\publish\Actividad3.deps.json
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\publish\Actividad3.runtimeconfig.json
+C:\Users\uvero\OneDrive\Desktop\1º DAM\programacion\Actividad 3\Programacion_Actividad3\Actividad3\publish\Actividad3.pdb
